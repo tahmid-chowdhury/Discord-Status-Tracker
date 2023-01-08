@@ -1,3 +1,8 @@
+"""
+Discord Status Tracker
+Code by: Tahmid Chowdhury
+"""
+
 import discord
 import asyncio
 

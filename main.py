@@ -53,4 +53,4 @@ intents.presences = True
 client = MyClient(intents=intents)
 
 # Run the client with the bot token
-client.run('MTA1ODE2NjU4MTk0MDcxNTYwMQ.GqYc4X.u9G4d2OcU7mLt44OjkdN1dBkLu1T654QUuBB10')
+client.run(<BOT TOKEN HERE>)
